@@ -1,0 +1,8 @@
+com\universityportal\dao\DBConnection.class
+com\universityportal\dao\StudentDAO.class
+com\universityportal\dao\CourseDAO.class
+com\universityportal\servlet\StudentServlet.class
+com\universityportal\models\Course.class
+com\universityportal\servlet\CourseServlet.class
+com\universityportal\servlet\FacultyServlet.class
+com\universityportal\models\Student.class

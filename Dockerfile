@@ -1,6 +1,5 @@
 # Use official Tomcat image
-FROM tomcat:10.1-jdk17
-
+FROM tomcat:9.0-jdk17
 # Remove default apps
 RUN rm -rf /usr/local/tomcat/webapps/*
 
